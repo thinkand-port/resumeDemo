@@ -1,0 +1,60 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    font-weight: bolder;
+}
+
+h2 {
+    color: white;
+    font-weight: bold;
+}
+
+h3 {
+    color: white;
+    font-weight: lighter;
+}
+
+h5 {
+    color: white;
+    font-weight: lighter;
+}
+
+p {
+    color: white;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+th {
+    color: white;
+    font-weight: lighter;
+}
+
+td {
+    color: white;
+    font-weight: lighter;
+}
+
+li {
+    color: white;
+    font-weight: lighter;
+}
+
+label {
+    color: white;
+
+}
+
+input {
+    border-width: 1;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.class {
+    margin-left: 100px;
+}
